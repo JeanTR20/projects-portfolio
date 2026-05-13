@@ -32,6 +32,21 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 - 🛒 Carrito de compras con persistencia
 - 📱 Diseño responsive con TailwindCSS
 - 📄 Paginación e infinite scroll
+- **Panel administrativo:**
+  - Gestión de productos ✅
+  - Gestión de inventario ✅
+  - Categorías y marcas ✅
+  - Gestión de pedidos ✅
+  - Punto de venta ✅
+  
+  **Próximamente:**
+  - Gestión de usuarios y usuarios internos
+  - Configuración de despachos, promociones y cupones
+  - Roles y permisos
+  - Reportes financieros, de stock y de clientes
+  - Sistema de reseñas y feedback
+  - Exportación de reportes (PDF, Excel, CSV)
+  - Configuraciones generales, integraciones y backups
 
 **Tecnologías:**
 - Angular 16+
@@ -42,6 +57,13 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 - TypeScript
 
 🔗 **Demo:** [Ver aplicación en vivo](https://lisanutripets.netlify.app/home)
+
+#### 🧪 Credenciales de demostración (para probar ambas interfaces)
+
+| Rol       | Correo electrónico                  | Contraseña  |
+|-----------|--------------------------------------|-------------|
+| Admin     | `demo_admin@lisanutripets.com`       | `Lisanu2024`|
+| Cliente   | `demo_cliente@lisanutripets.com`     | `Lisanu2024`|
 
 ---
 
