@@ -28,7 +28,7 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 
 **Características:**
 - 🔐 Autenticación JWT
-- 📅 Listado de producttos
+- 📅 Listado de productos
 - 🛒 Carrito de compras con persistencia
 - 📱 Diseño responsive con TailwindCSS
 - 📄 Paginación e infinite scroll
@@ -49,7 +49,7 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
   - Configuraciones generales, integraciones y backups
 
 **Tecnologías:**
-- Angular 16+
+- Angular 21
 - TailwindCSS
 - NestJS
 - MySQL
@@ -81,7 +81,7 @@ Aplicación web para la gestión y administración de servicios de recolección 
 - 👥 Panel de administración
 
 **Tecnologías:**
-- Angular 16+
+- Angular 17+
 - TypeScript
 - REST API
 - Responsive Design
@@ -143,7 +143,7 @@ Aplicación interactiva para búsqueda y visualización de GIFs animados, desarr
 ## 🧠 Habilidades Técnicas
 
 ### Frontend
-- **Framework:** Angular 16+
+- **Framework:** Angular 18+
 - **Lenguajes:** TypeScript, JavaScript, HTML5, CSS3
 - **Estilos:** TailwindCSS, SCSS
 - **Conceptos:** Reactive Programming, RxJS, Signals
