@@ -41,12 +41,13 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
   - Roles y permisos ✅
   - Reportes financieros, de stock y de clientes ✅
   - Exportación de reportes (PDF, Excel, CSV) ✅
+  - Gestión de usuarios y usuarios internos ✅
+  - Configuración de despachos ✅
+  - Configuraciones generales, integraciones y backups ✅
   
   **Próximamente:**
-  - Gestión de usuarios y usuarios internos
-  - Configuración de despachos, promociones y cupones
+  - Configuración promociones y cupones
   - Sistema de reseñas y feedback
-  - Configuraciones generales, integraciones y backups
 
 **Tecnologías:**
 - Angular 21
