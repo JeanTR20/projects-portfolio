@@ -21,29 +21,29 @@ Este repositorio reúne algunos de mis proyectos personales, desarrollados con a
 
 ## 📂 Proyectos
 
-### 🐾 Aplicación de Venta de Productos para Mascotas
+### PetShop Online (LisaNutriPets)
 
 **Descripción:**  
 Aplicación web completa para la gestión y venta de productos para mascotas, con catálogo dinámico, carrito de compras y sistema de autenticación seguro.
 
 **Características:**
-- 🔐 Autenticación JWT
-- 📅 Listado de productos
-- 🛒 Carrito de compras con persistencia
-- 📱 Diseño responsive con TailwindCSS
-- 📄 Paginación e infinite scroll
+- Autenticación JWT
+- Listado de productos
+- Carrito de compras con persistencia
+- Diseño responsive con TailwindCSS
+- Paginación e infinite scroll
 - **Panel administrativo:**
-  - Gestión de productos ✅
-  - Gestión de inventario ✅
-  - Categorías y marcas ✅
-  - Gestión de pedidos ✅
-  - Punto de venta ✅
-  - Roles y permisos ✅
-  - Reportes financieros, de stock y de clientes ✅
-  - Exportación de reportes (PDF, Excel, CSV) ✅
-  - Gestión de usuarios y usuarios internos ✅
-  - Configuración de despachos ✅
-  - Configuraciones generales, integraciones y backups ✅
+  - Gestión de productos
+  - Gestión de inventario
+  - Categorías y marcas
+  - Gestión de pedidos
+  - Punto de venta
+  - Roles y permisos
+  - Reportes financieros, de stock y de clientes
+  - Exportación de reportes (PDF, Excel, CSV)
+  - Gestión de usuarios y usuarios internos
+  - Configuración de despachos
+  - Configuraciones generales, integraciones y backups
   
   **Próximamente:**
   - Configuración promociones y cupones
@@ -74,12 +74,12 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 Aplicación web para la gestión y administración de servicios de recolección de residuos sólidos, permitiendo a los usuarios consultar horarios, reportar incidencias y recibir notificaciones.
 
 **Características:**
-- 📅 Listado de horarios con filtros avanzados
-- 📄 Paginación e infinite scroll
-- 📢 Sistema de reportes de incidencias
-- 🔔 Notificaciones en tiempo real
-- 🔄 Actualización de estados
-- 👥 Panel de administración
+- Listado de horarios con filtros avanzados
+- Paginación e infinite scroll
+- Sistema de reportes de incidencias
+- Notificaciones en tiempo real
+- Actualización de estados
+- Panel de administración
 
 **Tecnologías:**
 - Angular 17+
@@ -98,10 +98,10 @@ Aplicación web para la gestión y administración de servicios de recolección 
 Aplicación desarrollada con Server-Side Rendering (SSR) para optimizar el rendimiento y SEO. Implementa patrones avanzados de Angular y consumo eficiente de APIs externas.
 
 **Características:**
-- 🚀 Server-Side Rendering (SSR)
-- 🎮 Listado completo de Pokémon
-- 📄 Paginación optimizada
-- ⚡ Carga rápida y SEO-friendly
+- Server-Side Rendering (SSR)
+- Listado completo de Pokémon
+- Paginación optimizada
+- Carga rápida y SEO-friendly
 
 **Tecnologías:**
 - Angular SSR
@@ -116,18 +116,18 @@ Aplicación desarrollada con Server-Side Rendering (SSR) para optimizar el rendi
 
 ---
 
-### 🎬 Gif App
+### Gif App
 
 **Descripción:**  
 Aplicación interactiva para búsqueda y visualización de GIFs animados, desarrollada para reforzar conceptos de consumo de APIs externas y manejo de estado en Angular.
 
 **Características:**
-- 🔍 Búsqueda de GIFs en tiempo real
-- 📌 Trending GIFs
-- 💾 Historial de búsquedas
-- 📱 Diseño responsive
-- ⚡ Carga lazy de imágenes
-- 🎨 Interfaz moderna con TailwindCSS
+- Búsqueda de GIFs en tiempo real
+- Trending GIFs
+- Historial de búsquedas
+- Diseño responsive
+- Carga lazy de imágenes
+- Interfaz moderna con TailwindCSS
 
 **Tecnologías:**
 - Angular
@@ -141,7 +141,7 @@ Aplicación interactiva para búsqueda y visualización de GIFs animados, desarr
 
 ---
 
-## 🧠 Habilidades Técnicas
+## Habilidades Técnicas
 
 ### Frontend
 - **Framework:** Angular 18+
@@ -189,7 +189,7 @@ Aplicación interactiva para búsqueda y visualización de GIFs animados, desarr
 
 ---
 
-## ⭐ Agradecimientos
+## Agradecimientos
 
 Gracias por visitar mi portafolio.
 
