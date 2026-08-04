@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Hola, soy **Jean Torres**, desarrollador **Fullstack** especializado en el stack **Angular + NestJS**.  
 Apasionado por crear aplicaciones web robustas, escalables y con las mejores prácticas del desarrollo moderno.
@@ -19,7 +19,7 @@ Este repositorio reúne algunos de mis proyectos personales, desarrollados con a
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
 ### PetShop Online (LisaNutriPets)
 
@@ -61,7 +61,7 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 
 **Video demostrativo:** [Ver video en YouTube](https://youtu.be/B1aV4CqwTys)
 
-#### 🧪 Credenciales de demostración (para probar ambas interfaces)
+#### Credenciales de demostración (para probar ambas interfaces)
 
 | Rol       | Correo electrónico                  | Contraseña  |
 |-----------|--------------------------------------|-------------|
@@ -70,7 +70,7 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 
 ---
 
-### ♻️ Aplicación de Servicio de Recolección de Residuos Sólidos
+### Aplicación de Servicio de Recolección de Residuos Sólidos
 
 **Descripción:**  
 Aplicación móvil y web para la gestión y administración de servicios de recolección de residuos sólidos, permitiendo a los usuarios consultar horarios, reportar incidencias y recibir notificaciones.
@@ -89,8 +89,8 @@ Aplicación móvil y web para la gestión y administración de servicios de reco
 - REST API
 - Responsive Design
 
-🔗 **Demo:** [Ver aplicación en vivo](https://servicio-recoleccion-residuos-solidos.netlify.app/#/inicio)  
-📂 **Repositorio:** [Ver código fuente](https://github.com/JeanTR20/app_web_servicio_recoleccion_residuos)
+**Demo:** [Ver aplicación en vivo](https://servicio-recoleccion-residuos-solidos.netlify.app/#/inicio)  
+**Repositorio:** [Ver código fuente](https://github.com/JeanTR20/app_web_servicio_recoleccion_residuos)
 
 ---
 
@@ -113,8 +113,8 @@ Aplicación desarrollada con Server-Side Rendering (SSR) para optimizar el rendi
 - REST API
 - Notificaciones
 
-🔗 **Demo:** [Ver aplicación en vivo](https://pokemon-ssr-angular-jtr.netlify.app/pokemons?page=1)  
-📂 **Repositorio:** [Ver código fuente](https://github.com/JeanTR20/pokemon_SSR)
+**Demo:** [Ver aplicación en vivo](https://pokemon-ssr-angular-jtr.netlify.app/pokemons?page=1)  
+**Repositorio:** [Ver código fuente](https://github.com/JeanTR20/pokemon_SSR)
 
 ---
 
@@ -138,8 +138,8 @@ Aplicación interactiva para búsqueda y visualización de GIFs animados, desarr
 - Giphy API
 - Reactive Forms
 
-🔗 **Demo:** [Ver aplicación en vivo](https://gif-app-jean-torres.netlify.app/#/dashboard/trending)  
-📂 **Repositorio:** [Ver código fuente](https://github.com/JeanTR20/gifs_app)
+**Demo:** [Ver aplicación en vivo](https://gif-app-jean-torres.netlify.app/#/dashboard/trending)  
+**Repositorio:** [Ver código fuente](https://github.com/JeanTR20/gifs_app)
 
 ---
 
@@ -173,7 +173,7 @@ Aplicación interactiva para búsqueda y visualización de GIFs animados, desarr
 
 ---
 
-## 📝 Notas
+## Notas
 
 - Los proyectos están desplegados con fines **demostrativos y educativos**.
 - Algunas funcionalidades pueden estar limitadas en el entorno de prueba.
@@ -182,12 +182,12 @@ Aplicación interactiva para búsqueda y visualización de GIFs animados, desarr
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanTR20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jeantr)
 
-📧 **Email:** Disponible en mi perfil de LinkedIn
+**Email:** Disponible en mi perfil de LinkedIn
 
 ---
 
