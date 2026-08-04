@@ -73,7 +73,7 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 ### ♻️ Aplicación de Servicio de Recolección de Residuos Sólidos
 
 **Descripción:**  
-Aplicación web para la gestión y administración de servicios de recolección de residuos sólidos, permitiendo a los usuarios consultar horarios, reportar incidencias y recibir notificaciones.
+Aplicación móvil y web para la gestión y administración de servicios de recolección de residuos sólidos, permitiendo a los usuarios consultar horarios, reportar incidencias y recibir notificaciones.
 
 **Características:**
 - Listado de horarios con filtros avanzados
