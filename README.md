@@ -89,8 +89,8 @@ Aplicación móvil y web para la gestión y administración de servicios de reco
 - REST API
 - Responsive Design
 
-**Demo:** [Ver aplicación en vivo](https://servicio-recoleccion-residuos-solidos.netlify.app/#/inicio)  
-**Repositorio:** [Ver código fuente](https://github.com/JeanTR20/app_web_servicio_recoleccion_residuos)
+**
+- **Video demostrativo:** [Ver la aplicación]([https://youtu.be/TU_VIDEO](https://youtu.be/KjsS-EDyI6Y))
 
 ---
 
