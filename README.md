@@ -90,7 +90,7 @@ Aplicación móvil y web para la gestión y administración de servicios de reco
 - Responsive Design
 
 **
-- **Video demostrativo:** [Ver la aplicación]([https://youtu.be/TU_VIDEO](https://youtu.be/KjsS-EDyI6Y))
+**Video demostrativo:** [Ver la aplicación]([https://youtu.be/TU_VIDEO](https://youtu.be/KjsS-EDyI6Y))
 
 ---
 
