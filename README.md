@@ -21,7 +21,7 @@ Este repositorio reúne algunos de mis proyectos personales, desarrollados con a
 
 ## Proyectos
 
-### PetShop Online (LisaNutriPets)
+### PetShop Online (LisaPet)
 
 **Descripción:**  
 Aplicación web completa para la gestión y venta de productos para mascotas, con catálogo dinámico, carrito de compras y sistema de autenticación seguro.
