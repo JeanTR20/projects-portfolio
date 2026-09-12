@@ -30,6 +30,7 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 - Autenticación JWT
 - Listado de productos
 - Carrito de compras con persistencia
+- Checkout con pasarela de pagos (Culqi)
 - Diseño responsive con TailwindCSS
 - Paginación e infinite scroll
 - **Panel administrativo:**
@@ -67,6 +68,15 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 |-----------|--------------------------------------|-------------|
 | Admin     | `demo_admin@lisanutripets.com`       | `Lisanutripets2026`|
 | Cliente   | `demo_cliente@lisanutripets.com`     | `Lisanutripets2026`|
+
+#### Pagos con tarjeta (modo de prueba — sandbox)
+
+El checkout usa el entorno de pruebas de Culqi. **No se procesa ningún cobro real bajo ninguna circunstancia** — no ingreses una tarjeta real, será rechazada por no coincidir con ningún caso de prueba reconocido. Usa una de estas:
+
+| Escenario            | Número               | CVV | Vencimiento |
+|-----------------------|-----------------------|-----|-------------|
+| Compra exitosa         | 4111 1111 1111 1111 | 123 | 09/30       |
+| Fondos insuficientes   | 4000 0400 0000 0008 | 295 | 03/30       |
 
 ---
 
