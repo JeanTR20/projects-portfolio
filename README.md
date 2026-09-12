@@ -66,8 +66,8 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 
 | Rol       | Correo electrónico                  | Contraseña  |
 |-----------|--------------------------------------|-------------|
-| Admin     | `demo_admin@lisanutripets.com`       | `Lisanutripets2026`|
-| Cliente   | `demo_cliente@lisanutripets.com`     | `Lisanutripets2026`|
+| Admin     | `demo_admin@lisapets.com`       | `Lisapets2026`|
+| Cliente   | ` demo_cliente@lisapets.com`     | `Lisapets2026`|
 
 #### Pagos con tarjeta (modo de prueba — sandbox)
 
