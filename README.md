@@ -26,37 +26,53 @@ Este repositorio reúne algunos de mis proyectos personales, desarrollados con a
 **Descripción:**  
 Aplicación web completa para la gestión y venta de productos para mascotas, con catálogo dinámico, carrito de compras y sistema de autenticación seguro.
 
-**Características:**
-- Autenticación JWT
-- Listado de productos
-- Carrito de compras con persistencia
-- Checkout con pasarela de pagos (Culqi)
-- Diseño responsive con TailwindCSS
-- Paginación e infinite scroll
-- **Panel administrativo:**
-  - Gestión de productos
-  - Gestión de inventario
-  - Categorías y marcas
-  - Gestión de pedidos
-  - Punto de venta
-  - Roles y permisos
-  - Reportes financieros, de stock y de clientes
-  - Exportación de reportes (PDF, Excel, CSV)
-  - Gestión de usuarios y usuarios internos
-  - Configuración de despachos
-  - Configuraciones generales, integraciones y backups
-  
-  **Próximamente:**
-  - Configuración promociones y cupones
-  - Sistema de reseñas y feedback
+#### Tienda:
 
-**Tecnologías:**
-- Angular 21
-- TailwindCSS
-- NestJS
-- MySQL
-- JWT Authentication
-- TypeScript
+- Autenticación segura con JWT
+- Catálogo de productos con variantes y galerías de imágenes
+- Búsqueda y filtrado por categoría, marca y tipo de mascota
+- Paginación e infinite scroll
+- Carrito de compras con persistencia
+- Lista de deseos (Wishlist)
+- Checkout con pasarela de pagos (Culqi) y métodos de pago guardados
+- Direcciones de envío con ubigeo de Perú (departamento, provincia y distrito)
+- Mis pedidos con historial de estados
+- Soporte al cliente mediante tickets
+- Libro de reclamaciones
+- Preferencias de notificación
+- Diseño responsive con TailwindCSS
+
+#### Panel administrativo:
+
+- Dashboard con métricas
+- Gestión de productos, variantes y galerías
+- Gestión de inventario
+- Categorías, marcas y tipos de mascota
+- Gestión de pedidos
+- Punto de venta
+- Roles y permisos, con menú y rutas filtrados según el rol
+- Reportes financieros, de stock y de clientes
+- Exportación de reportes (PDF, Excel, CSV)
+- Gestión de clientes y usuarios internos
+- Gestión de banners
+- Configuración de despachos
+- Configuraciones generales, integraciones y backups
+
+### Aspectos técnicos
+
+- API REST documentada con Swagger
+- Autorización por roles y permisos en backend (guards) y frontend
+- Integridad referencial completa en MySQL y procedimientos almacenados para los registros de usuarios
+- Skeletons de carga en todo el panel
+
+### Próximamente
+
+- Configuración de promociones y cupones
+- Sistema de reseñas y feedback
+
+### Tecnologías
+
+Angular 21 · TailwindCSS · NestJS · MySQL (TypeORM) · JWT Authentication · TypeScript · Culqi · Swagger/OpenAPI · Netlify y Railway (despliegue)
 
 **Demo:** [Ver aplicación en vivo]([https://lisanutripets.netlify.app/home](https://lisapet.netlify.app/home))
 
