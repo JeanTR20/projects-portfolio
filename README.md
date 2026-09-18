@@ -76,7 +76,7 @@ Angular 21 · TailwindCSS · NestJS · MySQL (TypeORM) · JWT Authentication · 
 
 **Demo:** [Ver aplicación en vivo](https://lisapet.netlify.app/home)
 
-**Video demostrativo:** [Ver video en YouTube](https://youtu.be/B1aV4CqwTys)
+**Video demostrativo:** [Ver video en YouTube](https://youtu.be/30-dXIeToNs)
 
 #### Credenciales de demostración (para probar ambas interfaces)
 
