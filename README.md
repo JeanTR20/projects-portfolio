@@ -58,9 +58,9 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 - JWT Authentication
 - TypeScript
 
-**Demo:** [Ver aplicación en vivo](https://lisanutripets.netlify.app/home)
+**Demo:** [Ver aplicación en vivo]([https://lisanutripets.netlify.app/home](https://lisapet.netlify.app/home))
 
-**Video demostrativo:** [Ver video en YouTube](https://youtu.be/B1aV4CqwTys)
+**Video demostrativo:** [Ver video en YouTube]([https://youtu.be/B1aV4CqwTys](https://youtu.be/B1aV4CqwTys))
 
 #### Credenciales de demostración (para probar ambas interfaces)
 
