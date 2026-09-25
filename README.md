@@ -96,7 +96,7 @@ El checkout usa el entorno de pruebas de Culqi. **No se procesa ningún cobro re
 
 ---
 
-### Aplicación de Servicio de Recolección de Residuos Sólidos
+### EcoRecoge: Aplicación de Servicio de Recolección de Residuos Sólidos
 
 **Descripción:**  
 Aplicación móvil y web para la gestión y administración de servicios de recolección de residuos sólidos, permitiendo a los usuarios consultar horarios, reportar incidencias y recibir notificaciones.
@@ -110,13 +110,13 @@ Aplicación móvil y web para la gestión y administración de servicios de reco
 - Panel de administración
 
 **Tecnologías:**
-- Angular 17+
+- Angular 21
 - TypeScript
 - REST API
 - Responsive Design
 
-**
-**Video demostrativo:** [Ver la aplicación](https://youtu.be/KjsS-EDyI6Y)
+**Demo web:** [Ver aplicación web en vivo](https://frontend-ecorecoge-1ftzgt323-jeantr20.vercel.app)
+**Demo móvil:** [ Ver aplicación en Google Play](https://play.google.com/store/apps/details?id=com.ecohuancan.ecorecoge)
 
 ---
 
