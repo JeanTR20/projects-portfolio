@@ -116,8 +116,15 @@ Aplicación móvil y web para la gestión y administración de servicios de reco
 - Responsive Design
 
 **Demo web:** [Ver aplicación web en vivo](https://frontend-ecorecoge-1ftzgt323-jeantr20.vercel.app)
+
 **Demo móvil:** [ Ver aplicación en Google Play](https://play.google.com/store/apps/details?id=com.ecohuancan.ecorecoge)
 
+#### Credenciales de demostración (para probar ambas interfaces)
+
+| Rol       | Correo electrónico                  | Contraseña  |
+|-----------|--------------------------------------|-------------|
+| Admin     | `demo_admin@gmail.com`       | `EcoRecoge2026`|
+| Cliente   | `demo_cliente@gmail.com`     | `EcoRecoge2026`|
 ---
 
 ### ⚡ Aplicación Pokémon SSR
