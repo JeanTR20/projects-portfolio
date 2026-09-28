@@ -115,7 +115,7 @@ Aplicación móvil y web para la gestión y administración de servicios de reco
 - REST API
 - Responsive Design
 
-**Demo web:** [Ver aplicación web en vivo](https://frontend-ecorecoge-1ftzgt323-jeantr20.vercel.app)
+**Demo web:** [Ver aplicación web en vivo](https://ecorecoge.vercel.app)
 
 **Demo móvil:** [ Ver aplicación en Google Play](https://play.google.com/store/apps/details?id=com.ecohuancan.ecorecoge)
 
