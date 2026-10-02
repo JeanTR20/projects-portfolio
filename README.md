@@ -21,9 +21,18 @@ Este repositorio reúne algunos de mis proyectos personales, desarrollados con a
 
 ---
 
-## Proyectos
+## ⭐ Proyectos principales
 
-### PetShop Online (LisaPet)
+Aplicaciones completas de punta a punta (frontend, backend, base de datos y despliegue), desarrolladas de forma individual.
+
+| Proyecto | Qué es | Stack | Ver en vivo |
+|----------|--------|-------|-------------|
+| **[LisaPet](#lisapet--e-commerce-para-petshop)** | E-commerce con tienda, panel administrativo y punto de venta | Angular 21 · NestJS · MySQL · Redis | [Demo](https://lisapet.netlify.app/home) · [Video](https://youtu.be/30-dXIeToNs) |
+| **[EcoRecoge](#ecorecoge--plataforma-de-recolección-de-residuos-sólidos)** | App móvil, panel web y API para la recolección de residuos | Flutter · Angular 21 · NestJS 12 · PostgreSQL | [Panel web](https://ecorecoge.vercel.app) · [Google Play](https://play.google.com/store/apps/details?id=com.ecohuancan.ecorecoge) |
+
+---
+
+### LisaPet — E-commerce para PetShop
 
 **Descripción:**  
 Aplicación web completa para la gestión y venta de productos para mascotas, con catálogo dinámico, carrito de compras y sistema de autenticación seguro.
@@ -61,7 +70,7 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 - Configuración de despachos
 - Configuraciones generales, integraciones y backups
 
-### Aspectos técnicos
+#### Aspectos técnicos
 
 - API REST documentada con Swagger
 - Autorización por roles y permisos en backend (guards) y frontend
@@ -72,12 +81,12 @@ Aplicación web completa para la gestión y venta de productos para mascotas, co
 - Backups automatizados con cron jobs y restauración de base de datos
 - Skeletons de carga en todo el panel
 
-### Próximamente
+#### Próximamente
 
 - Configuración de promociones y cupones
 - Sistema de reseñas y feedback
 
-### Tecnologías
+#### Tecnologías
 
 Angular 21 · TailwindCSS · NestJS · MySQL (TypeORM) · Redis · JWT Authentication · TypeScript · Culqi y Yape · Cloudinary · Swagger/OpenAPI · Netlify y Railway (despliegue)
 
@@ -103,7 +112,7 @@ El checkout usa el entorno de pruebas de Culqi. **No se procesa ningún cobro re
 
 ---
 
-### EcoRecoge: Aplicación de Servicio de Recolección de Residuos Sólidos
+### EcoRecoge — Plataforma de recolección de residuos sólidos
 
 **Descripción:**  
 Plataforma completa (app móvil, panel web y API) para el servicio de recolección de residuos sólidos: los vecinos consultan horarios, siguen al camión en tiempo real y reportan incidencias; los recolectores ven su ruta del día; y la municipalidad administra todo desde un panel web.
@@ -152,7 +161,11 @@ Flutter · Dart · Angular 21 · TypeScript · Leaflet · NestJS 12 · PostgreSQ
 | Cliente   | `demo_cliente@gmail.com`     | `EcoRecoge2026`|
 ---
 
-### ⚡ Aplicación Pokémon SSR
+## Proyectos complementarios
+
+Proyectos más pequeños para practicar conceptos específicos de Angular (SSR, consumo de APIs externas y manejo de estado).
+
+### Aplicación Pokémon SSR
 
 **Descripción:**  
 Aplicación desarrollada con Server-Side Rendering (SSR) para optimizar el rendimiento y SEO. Implementa patrones avanzados de Angular y consumo eficiente de APIs externas.
